@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Slamacow-Eli
+- 👋 Hi, I’m Elijah Herbert
 - 👀 I’m a Computer Science Student at Southern New Hampshire University.
 - 🌱 I’m currently learning C++ and Python.
-- 💞️ I’m looking to collaborate on small projects to help learn and solidify my knowledge of programming.
+- 💞️ I’m looking to learn and solidify my knowledge of programming.
 - 📫 I can be reached @ themainhub77@gmail.com
 
 <!---
